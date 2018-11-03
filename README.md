@@ -1,1 +1,1 @@
-# arduino-electric-blanket
+# arduino-auto-electric-blanket
