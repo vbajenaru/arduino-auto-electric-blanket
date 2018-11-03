@@ -1,5 +1,5 @@
 
-const int relayPin = 2;	    // use this pin to drive the transistor
+const int relayPin = 2;	    // use this pin to drive the relay
 float timeBlanketOn = 1.5*60*60*1000;
 float timeSwitchRelay = 500;
 float timeBlanketOff = ((float)24*60*60*1000)-(float)(timeBlanketOn)-(2*(float)timeSwitchRelay);
