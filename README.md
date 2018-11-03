@@ -6,7 +6,7 @@ Some precautions:
 - You'd have to unscrew apart your electric blanket controller, and sauder wires to the buttons to simulate button presses
    - This needs to be done for the power on button, and the plus (more heat) button
    - Each button bridges two electrical contacts.  Both of these contacts need to have an external wire saudered to them.  We will then simulate each button press with a relay, by invoking the relay to connect the button contacts, thus simulating a button press
-- You'd also need a standard outlet timer to plug both the arduino and blanket to, which will serve as our method of timing.  The arduino internal clock is not accurate over long periods of time based on my experience with it, but you may find something different
+- You'd also need a standard outlet timer to plug both the arduino and blanket to, which will serve as our method of timing.  The Arduino doesn't have a battery powered clock that knows the time of day, so in that case you'd have to program the time of day that you enabled the program.  Programming this in can be a challenge, especially when unplugging and replugging in the blanket for any reason, as you'd have to get your computer out and update the variables.  Working off a standard outlet timer seemed like a simpler approach
 - Using a transistor instead of the relay does not work for this application, since transistors at a low state will still trickle current which makes the Sunbeam button think there is contact
 - A relay and a resistor is all that's really needed for this setup
 
