@@ -14,5 +14,4 @@ More information:
 I have not made wire diagrams, but it's possible to track the wire locations with this picture if you'd like to recreate it: 
 <br>
 <br>
-![image](https://raw.githubusercontent.com/vicb1/arduino-projects/master/auto-electric-blanket
-/pic3.jpg)
+![image](https://raw.githubusercontent.com/vicb1/arduino-projects/master/auto-electric-blanket/pic3.jpg)
