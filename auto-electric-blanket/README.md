@@ -12,4 +12,7 @@ More information:
 - A relay and a resistor is all that's really needed for this setup
 
 I have not made wire diagrams, but it's possible to track the wire locations with this picture if you'd like to recreate it: 
-![image](https://raw.githubusercontent.com/vbajenaru/arduino-auto-electric-blanket/master/pic3.jpg)
+<br>
+<br>
+![image](https://raw.githubusercontent.com/vicb1/arduino-projects/master/auto-electric-blanket
+/pic3.jpg)
