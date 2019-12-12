@@ -12,4 +12,7 @@ The instrument uses the following components:
 - 1 red light and 1 one yellow light for additional high-end light effects
 
 I have not made wire diagrams, but it's possible to track the wire locations with this picture if you'd like to recreate it:
-![image](https://raw.githubusercontent.com/vbajenaru/arduino-musical-instrument/master/pic2.jpg)
+<br>
+<br>
+
+![image](https://raw.githubusercontent.com/vbajenaru/arduino-projects/master/musical-instrument/pic2.jpg)
