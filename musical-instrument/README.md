@@ -14,4 +14,4 @@ The instrument uses the following components:
 I have not made wire diagrams, but it's possible to track the wire locations with this picture if you'd like to recreate it:
 <br>
 <br>
-![image](https://github.com/vicb1/deep-learning-for-computer-vision/blob/master/1_Viola_Jones_face_detection/example_screenshot_of_live_video.png?raw=true)
+![image](https://raw.githubusercontent.com/vicb1/arduino-projects/master/musical-instrument/pic2.jpg)
