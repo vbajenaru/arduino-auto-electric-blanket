@@ -11,7 +11,7 @@ More information:
    - Using a transistor instead of the relay does not work for this application, since transistors at a low state will still trickle current which makes the controller think there is a button press
 - A relay and a resistor is all that's really needed for this setup
 
-I have not made wire diagrams, but it's possible to track the wire locations with this picture if you'd like to recreate it: 
+I have not made wire diagrams, but it may be possible to track the wire locations with this picture if you'd like to recreate it: 
 <br>
 <br>
 ![image](https://raw.githubusercontent.com/vicb1/arduino-projects/master/auto-electric-blanket/pic3.jpg)
