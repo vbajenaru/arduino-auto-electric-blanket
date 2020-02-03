@@ -14,4 +14,4 @@ I have not made wire diagrams, but it may be possible to track the wire location
 Also the following is the finite state diagram of the states, triggers, and tasks for this robot:
 <br>
 <br>
-![image](https://raw.githubusercontent.com/vicb1/arduino-projects/master/explorer-robot-using-FreeRTOS/pic.jpg)
+![image](https://raw.githubusercontent.com/vicb1/arduino-projects/master/explorer-robot-using-FreeRTOS/Real_time_explorer_finite_state_diagram.png)
