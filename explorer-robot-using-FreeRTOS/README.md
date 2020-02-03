@@ -1,6 +1,6 @@
 # explorer-robot-using-FreeRTOS
 
-Upload the explorer_robot.ino file to an Arduino, with the proper wiring, to produce this explorer robot!
+Upload the `explorer_robot/explorer_robot.ino` file to an Arduino, with the proper wiring, to produce this explorer robot!
 
 See the following video for an overview of the components and workings: https://www.youtube.com/watch?v=4IsdUQJm-8M
 
