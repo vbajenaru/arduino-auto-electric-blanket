@@ -4,7 +4,7 @@ Upload the explorer_robot.ino file to an Arduino, with the proper wiring, to pro
 
 See the following video for an overview of the components and workings: https://www.youtube.com/watch?v=4IsdUQJm-8M
 
-I have not made wire diagrams, but it may be possible to track the wire locations with the following picture if you'd like to recreate it.  Also note that the Arduino Uno controller was used, along with the L298N H-bridge motor controller module.
+I have not made wire diagrams, but it may be possible to track the wire locations with the following picture if you'd like to recreate it.  Note that the Arduino Uno controller was used, along with the L298N H-bridge motor controller module.
 <br>
 <br>
 ![image](https://raw.githubusercontent.com/vicb1/arduino-projects/master/explorer-robot-using-FreeRTOS/pic.jpg)
