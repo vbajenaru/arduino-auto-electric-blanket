@@ -16,3 +16,10 @@ Also the following is the finite state diagram of the states, triggers, and task
 <br>
 <br>
 ![image](https://raw.githubusercontent.com/vicb1/arduino-projects/master/explorer-robot-using-FreeRTOS/Real_time_explorer_finite_state_diagram.png)
+<br>
+<br>
+
+Also the following is an example of the Arduino serial monitor output for this project, showing the state and task updates:
+<br>
+<br>
+![image](https://github.com/vicb1/arduino-projects/blob/master/explorer-robot-using-FreeRTOS/serial_monitor_output.png?raw=true)
